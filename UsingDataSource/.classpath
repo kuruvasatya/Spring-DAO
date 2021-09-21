@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/spring-webmvc-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/spring-web-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/spring-tx-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/spring-jdbc-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/spring-expression-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/spring-core-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/spring-context-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/spring-beans-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/spring-aop-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/jackson-databind-2.9.0.pr1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/jackson-core-2.9.0.pr1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/jackson-annotations-2.9.0.pr1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/Spring/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Satya Ganesh/Documents/FinalPetProject/Adopt-A-Pet/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
